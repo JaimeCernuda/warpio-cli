@@ -31,6 +31,10 @@
     "plot-mcp": {
       "command": "uvx",
       "args": ["iowarp-mcps", "plot"]
+    },
+    "ndp-mcp": {
+      "command": "uvx",
+      "args": ["iowarp-mcps", "ndp-mcp"]
     }
   }
 }
